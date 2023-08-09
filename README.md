@@ -43,7 +43,7 @@ Clone the repo
 Create conda environment from env.yaml
 Activate environment and run Jupyter notebook
 
-git clone https://github.com/<repo>
+git clone [https://github.com/<repo>](https://github.com/seyedfarhadtorabi/spam_filter.git)
 conda env create -f environment.yaml
 conda activate <env>
 jupyter notebook
